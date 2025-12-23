@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////
 ///
-/// Author      : Shruti
+/// Author      : Shruti kulkarni.
 /// File Name   : StudyLog.java
 /// Description : Represents a single study session entry.
 /// Constructors:
